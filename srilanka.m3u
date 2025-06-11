@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="PeoTV012" tvg-name="PeoTV Channel 012" tvg-country="LK",PeoTV Channel 0112
-https://www.itn.lk/72ef5e35-9136-4757-81b2-5c760c536df7
+html body div.player-wrapper div#itn-live.video-js.vjs-fill.itn-live-dimensions.vjs-controls-enabled.vjs-workinghover.vjs-v8.vjs-hls-quality-selector.vjs-playing.vjs-has-started.vjs-live.vjs-liveui.vjs-user-inactive video#itn-live_html5_api.vjs-tech
 
 #EXTINF:-1 tvg-id="ITN_sinhala" tvg-name="ITN Sri Lanka" tvg-country="LK",ITN Sri Lanka
 https://cdn4.broadcast.lk:443/live/itnlive/playlist.m3u8
